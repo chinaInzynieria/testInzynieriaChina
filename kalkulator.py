@@ -5,3 +5,4 @@ def roznica(a, b):
 print(suma(5,6))
 print('Koniec!!!')
 print(roznica(5,1))
+print('Final')
